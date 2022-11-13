@@ -33,4 +33,3 @@ function checkSquareNumber(n) {
     }
     return flag
 }
-
